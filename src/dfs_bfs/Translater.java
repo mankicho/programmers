@@ -12,11 +12,13 @@ public class Translater {
     int count;
     List<Integer> list = new ArrayList<>();
 
+    static int a;
     public static void main(String[] args) {
         String begin = "hit";
         String target = "log";
         String[] words = {"hot", "dot", "dog", "lot", "log", "cog"};
 
+        System.out.println(a);
         new Translater().solution(begin, target, words);
     }
 
