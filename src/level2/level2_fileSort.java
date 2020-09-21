@@ -33,7 +33,7 @@ public class level2_fileSort {
                 index_file1++;
             }
 
-            while (index_file1 < file.length() && index_file1 < file.length()) {
+            while (index_file1 < file.length()) {
                 tail.append(file.charAt(index_file1++));
             }
 
