@@ -4,6 +4,8 @@ public class level3_pedestrianHeaven {
     int MOD = 20170805;
     int answer = 0;
 
+    final static private int a = 0;
+
     public static void main(String[] args) {
 //        System.out.println(new level3_pedestrianHeaven().solution(3, 6, new int[][]{{0, 2, 0, 0, 0, 2}, {0, 0, 2, 0, 1, 0}, {1, 0, 0, 2, 2, 0}}));
 //        System.out.println(new level3_pedestrianHeaven().solution(3, 3, new int[][]{{0, 0, 0}, {0, 0, 0}, {0, 0, 0}}));
