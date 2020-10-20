@@ -4,9 +4,6 @@ import java.util.*;
 
 public class level3_jewelryShopping {
     public static void main(String[] args) {
-        new level3_jewelryShopping().solution(new String[]{"DIA", "RUBY", "RUBY", "DIA", "DIA", "EMERALD", "SAPPHIRE", "DIA", "RUBY"});
-        new level3_jewelryShopping().solution(new String[]{"XYZ", "XYZ", "XYZ", "ZX"});
-        new level3_jewelryShopping().solution(new String[]{"AA", "AB", "AC", "AA", "AC"});
     }
 
     public int[] solution(String[] gems) {
