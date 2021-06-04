@@ -6,6 +6,9 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * 수식 최대화
+ */
 public class test2 {
     public static void main(String[] args) {
 

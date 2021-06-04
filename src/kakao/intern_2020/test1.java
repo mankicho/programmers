@@ -3,6 +3,9 @@ package kakao.intern_2020;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 키패드 누르기
+ */
 public class test1 {
     public static void main(String[] args) throws Exception {
 

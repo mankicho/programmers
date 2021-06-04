@@ -2,6 +2,9 @@ package kakao.intern_2020;
 
 import java.util.*;
 
+/**
+ * 보석 쇼핑
+ */
 public class test3 {
     public static void main(String[] args) {
         System.out.println(Arrays.toString(new test3().solution(new String[]{
